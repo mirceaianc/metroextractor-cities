@@ -927,6 +927,14 @@
                         "right": "26.756"
                     }
                 },
+                "timisoara_romania": {
+                    "bbox": {
+                        "top": "45.830",
+                        "left": "21.080",
+                        "bottom": "45.680",
+                        "right": "21.360"
+                    }                    
+                },
                 "budapest_hungary": {
                     "bbox": {
                         "top": "47.861",
